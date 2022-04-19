@@ -339,6 +339,7 @@
     <string name="hide_details">詳細を隠す</string>
     <string name="project_options">プロジェクトオプション</string>
     <string name="from_library">ライブラリから追加</string>
+    <string name="from_local">Add from local</string>
     <string name="sort_projects">並べ替え</string>
     <string name="unsort_projects">並べ替えを解除</string>
     <string name="import_from_project">インポートするプロジェクトを選択</string>
